@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="logo" height="250px"/>
+  <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/logo.png" alt="logo" height="250px"/>
 
   <h1>Pronto para um Time Skip?</h1>
 </div>
@@ -10,107 +10,95 @@
 
 <hr>
 
-<img align="left" src="assets/radar.png" width = "32px"/> 
+<img align="left" src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/radar.png" width = "32px"/> 
 <h2>Radar do Dragão</h2>
 
 <div align="center">
   <a href="https://github.com/JosManoel">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics_treinamento.svg" width="412px"/> 
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/activity_treinamento.svg" width="412px"/>
   </a>
   <a href="https://github.com/JosManoel">
-    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/activity_treinamento.svg" width="412px"/>
+    <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics_treinamento.svg" width="412px"/> 
   </a>
 </div>
 
 <hr>
 
-<img align="left" src="assets/radar.png" width = "32px"/> 
+<img align="left" src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/radar.png" width = "32px"/> 
 <h2>Conteúdo</h2>
 
 <details>
   <summary>
-    <img src="assets/4-stars.png" width = "24px"/> 
+    <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/> 
     <h3>Bacharelado em Tecnologia da Informação</h3>
   </summary>
-  
-  <a href="https://github.com/Arco-de-Treinamento/LP2-2023.2-BTI-UFRN">
-    Linguagem de Programação II
-  </a>
 
-  <a href="https://github.com/Arco-de-Treinamento/SO-2023.2-BTI-UFRN">
-    Sistemas Operacionais
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/DNJ-2023.1-BTI-UFRN">
-    Design de Níveis de Jogos  
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/LP1-2023.1-BTI-UFRN">
-    Linguagem de Programação I
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/MBJ-2022.2-BTI-UFRN">
-    Mecânica e Balanceamento de Jogos
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/ITP-2022.2-BTI-UFRN">
-    Introdução às Técnicas de Programação
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/ITP-2022.2-BTI-UFRN-UNO">
-    Introdução às Técnicas de Programação: UNO
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/notas-de-jubilado">
-    Notas de Jubilado
-  </a>
+  <li>
+    <a href="https://github.com/Arco-de-Treinamento/LP2-2023.2-BTI-UFRN">Linguagem de Programação II</a>
+  </li>
+  <li>
+    <a href="https://github.com/Arco-de-Treinamento/SO-2023.2-BTI-UFRN">Sistemas Operacionais</a>    
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/DNJ-2023.1-BTI-UFRN">Design de Níveis de Jogos</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/LP1-2023.1-BTI-UFRN">Linguagem de Programação I</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/MBJ-2022.2-BTI-UFRN">Mecânica e Balanceamento de Jogos</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/ITP-2022.2-BTI-UFRN">Introdução às Técnicas de Programação</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/ITP-2022.2-BTI-UFRN-UNO">Introdução às Técnicas de Programação: UNO</a>
+  </li>
+  <li>
+    <a href="https://github.com/Arco-de-Treinamento/notas-de-jubilado">Notas de Jubilado</a>    
+  </li>
 </details>
 
 <details>
   <summary>
-    <img src="assets/4-stars.png" width = "24px"/> 
+    <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/> 
     <h3>Técnico em Eletrônica</h3>
   </summary>
   
-  <a href="https://github.com/Arco-de-Treinamento/ANEEL_Dataset_2005-2019">
-    Python para Visualização e Análise de Dados
-  </a>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/ANEEL_Dataset_2005-2019">Python para Visualização e Análise de Dados</a>
+  </li>
 </details>
 
 <details>
   <summary>
-    <img src="assets/4-stars.png" width = "24px"/> 
+    <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/> 
     <h3>Outros cursos</h3>
   </summary>
-  
-  <a href="https://github.com/Arco-de-Treinamento/Bootcamp-MRV_CRUD-dotNet">
-    Bootcamp MRV: CRUD com dotNET  
-  </a>
 
-  <a href="https://github.com/Arco-de-Treinamento/Bootcamp-MRV_iFood-Clone">
-    Bootcamp MRV: Clone do iFood
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/Bootcamp-MRV_Space-Shooter">
-    Bootcamp MRV: Space Shooter
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/NLW_6-Flutter">
-    NLW - 6° Edição
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/NLW_5-Flutter">
-    NLW - 5° Edição
-  </a>
-
-  <a href="https://github.com/Arco-de-Treinamento/CS50-Photo_Editor">
-    CS50: Projeto Final
-  </a>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/Bootcamp-MRV_CRUD-dotNet"> Bootcamp MRV: CRUD com dotNET</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/Bootcamp-MRV_iFood-Clone">Bootcamp MRV: Clone do iFood</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/Bootcamp-MRV_Space-Shooter">Bootcamp MRV: Space Shooter </a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/NLW_6-Flutter">NLW - 6° Edição</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/NLW_5-Flutter">NLW - 5° Edição</a>
+  </li>
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/CS50-Photo_Editor">CS50: Projeto Final</a>
+  </li>
 </details>
 
 <hr>
 
-<img align="left" src="assets/radar.png" width = "32px"/> 
+<img align="left" src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/radar.png" width = "32px"/> 
 <h2>FAQ</h2>
 
 <h3>Por que separa os projetos da conta principal?</h3>
