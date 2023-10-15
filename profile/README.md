@@ -34,6 +34,9 @@
   </summary>
 
   <li>
+    <a href="https://github.com/Arco-de-Treinamento/EDB2-2023.2-BTI-UFRN">Estruturas de Dados Básicas II</a>
+  </li>
+  <li>
     <a href="https://github.com/Arco-de-Treinamento/LP2-2023.2-BTI-UFRN">Linguagem de Programação II</a>
   </li>
   <li>
