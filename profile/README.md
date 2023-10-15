@@ -101,7 +101,7 @@
 <img align="left" src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/radar.png" width = "32px"/> 
 <h2>FAQ</h2>
 
-<h3>Por que separa os projetos da conta principal?</h3>
+<h3>Por que separar os projetos da conta principal?</h3>
 <p align="justify">
     Enquanto participava de algumas entrevistas notei que meus colegas de profissão tinham uma certa dificuldade em encontrar meus projetos em meio a tantos trabalhos escolares, por isso resolvi facilitar a vida deles com um bom trocadilho.
 </p>
