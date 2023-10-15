@@ -29,7 +29,7 @@
 
 <details>
   <summary>
-    <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/> 
+<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
     <h3>Bacharelado em Tecnologia da Informação</h3>
   </summary>
 
@@ -61,7 +61,7 @@
 
 <details>
   <summary>
-    <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/> 
+<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
     <h3>Técnico em Eletrônica</h3>
   </summary>
   
@@ -72,7 +72,7 @@
 
 <details>
   <summary>
-    <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/> 
+<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
     <h3>Outros cursos</h3>
   </summary>
 
@@ -119,5 +119,5 @@
 <h2></h2>
 
 <div align = "center">
-  👋 Feito com muito ☕ , 🎧, 💻 e mais um pouco de ☕.
+  👋🏾 Feito com muito ☕ , 🎧, 💻 e mais um pouco de ☕.
 </div>
