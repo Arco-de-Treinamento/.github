@@ -14,10 +14,10 @@
 <h2>Radar do Dragão</h2>
 
 <div align="center">
-  <a href="https://github.com/JosManoel">
+  <a href="https://github.com/Arco-de-Treinamento">
     <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/activity_treinamento.svg" width="412px"/>
   </a>
-  <a href="https://github.com/JosManoel">
+  <a href="https://github.com/Arco-de-Treinamento">
     <img src="https://gist.githubusercontent.com/JosManoel/f363d5f1bf90246899af8b9320886ed6/raw/metrics_treinamento.svg" width="412px"/> 
   </a>
 </div>
