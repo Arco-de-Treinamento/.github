@@ -76,6 +76,17 @@
 <details>
   <summary>
 <!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
+    <h3>Técnico em Edificações</h3>
+  </summary>
+  
+  <li>  
+    <a href="https://github.com/Arco-de-Treinamento/TCC-2020-IFRN-SPP">Trabalho de Conclusão de Curso</a>
+  </li>
+</details>
+
+<details>
+  <summary>
+<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
     <h3>Outros cursos</h3>
   </summary>
 
