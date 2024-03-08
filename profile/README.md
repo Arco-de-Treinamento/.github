@@ -29,8 +29,7 @@
 
 <details>
   <summary>
-<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
-    <h3>Bacharelado em Tecnologia da Informação</h3>
+    <strong>Bacharelado em Tecnologia da Informação</strong>
   </summary>
 
   <li>
@@ -64,8 +63,7 @@
 
 <details>
   <summary>
-<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
-    <h3>Técnico em Eletrônica</h3>
+    <strong>Técnico em Eletrônica</strong>
   </summary>
   
   <li>  
@@ -75,8 +73,7 @@
 
 <details>
   <summary>
-<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
-    <h3>Técnico em Edificações</h3>
+    <strong>Técnico em Edificações</strong>
   </summary>
   
   <li>  
@@ -86,8 +83,7 @@
 
 <details>
   <summary>
-<!--     <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/4-stars.png" width = "24px"/>  -->
-    <h3>Outros cursos</h3>
+    <strong>Outros cursos</strong>
   </summary>
 
   <li>  
@@ -129,6 +125,16 @@
 <p align="justify">
     Sim, 👍🏾
 </p>
+
+<hr>
+
+<h2></h2>
+
+<div align="right">
+  <i><strong>Obrigado por todo o trabalho, sensei.</strong></i>
+  &nbsp;&nbsp;&nbsp;  
+  <img src="https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/akira_toriyama.jpg" alt="logo" height="200px"/>
+</div>
 
 <h2></h2>
 
