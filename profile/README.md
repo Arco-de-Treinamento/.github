@@ -33,6 +33,12 @@
   </summary>
 
   <li>
+    <a href="https://github.com/Arco-de-Treinamento/DNPJ-2024.1-IMD-UFRN">Design de Narrativas para Jogos</a>
+  </li>
+    <li>
+    <a href="https://github.com/Arco-de-Treinamento/CCNA3-2024.1-BTI-UFRN">CCNA 3</a>
+  </li>
+  <li>
     <a href="https://github.com/Arco-de-Treinamento/EDB2-2023.2-BTI-UFRN">Estruturas de Dados Básicas II</a>
   </li>
   <li>
