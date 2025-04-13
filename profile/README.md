@@ -31,12 +31,23 @@
   <summary>
     <strong>Bacharelado em Tecnologia da Informação</strong>
   </summary>
-
+   <li>
+    <a href="https://github.com/Arco-de-Treinamento/VGA-2025.1-BTI-UFRN">Vetores e Geometria Analitica</a>
+  </li>
+  <li>
+    <a href="https://github.com/Arco-de-Treinamento/DDM-2024.2-BTI-UFRN">Desenvolvimento para Dispositivos Moveis</a>
+  </li>
+   <li>
+    <a href="https://github.com/Arco-de-Treinamento/AIoT_auto-brightness-sensor">Controle de Brilho de Monitor com Arduino e Linux</a>
+  </li>
+  <li>
+    <a href="https://github.com/Arco-de-Treinamento/AIoT-2024.2-BTI-UFRN">Aplicações em Internet das Coisas</a>
+  </li>
   <li>
     <a href="https://github.com/Arco-de-Treinamento/DNPJ-2024.1-IMD-UFRN">Design de Narrativas para Jogos</a>
   </li>
     <li>
-    <a href="https://github.com/Arco-de-Treinamento/CCNA3-2024.1-BTI-UFRN">CCNA 3</a>
+    <a href="https://github.com/Arco-de-Treinamento/CCNAv7-BTI-UFRN">CCNAv7: Enterprise Networking, Security, and Automation</a>
   </li>
   <li>
     <a href="https://github.com/Arco-de-Treinamento/EDB2-2023.2-BTI-UFRN">Estruturas de Dados Básicas II</a>
